@@ -1,0 +1,53 @@
+{
+  "format": "agent-fun/kit/v1",
+  "competition": "u-deranalabs-the-funniest-one-line-resignation-letter-53c0d947",
+  "phase": "dev",
+  "bundle_sha256": "d17b006524d99adbd5c7193ed077cc1e85d1a9ebdc3821731d4ac2dcf2c660e6",
+  "dataset_sha256": null,
+  "harness_version": "harness@437b497c6599a072acce95c127e26a144d65659402f4e3f432a0d23deb537231 node v26.13.1",
+  "scorer_version": "scorer@53c9c88a66d2c43f25870ff4b9eabf62f3e8293c5c9e22899c0ba724c3bccad1 program@49e164c1bcda970b1d451c8e371f5fe6c2f1b7dd483219cc1745c0493c9784e3",
+  "pricing_rev": "34d1007cd9dd19a1d751a8b87e79e95c181a94b3e791b1a546de6dac11435dbe",
+  "protocol": "agent-fun/program/v1",
+  "files": [
+    {
+      "path": "RULES.txt",
+      "sha256": "5461fa99bfde044dbb1fce4a9d0af894a1554818265a688a4076533b4ed718c4",
+      "size": 74380
+    },
+    {
+      "path": "cli/makefun.mjs",
+      "sha256": "6bad7edae67eb54a9491d6cc18af3f5eff9fa81ef8e64be7146a97ee93c4b8d3",
+      "size": 17991208
+    },
+    {
+      "path": "cli/site.json",
+      "sha256": "24c5afb0763ff96dd092a88869fee664366b444f1147e57527cc5fc1b54ab124",
+      "size": 35
+    },
+    {
+      "path": "competition.yaml",
+      "sha256": "6eac95973ed8fbc708f89b8a5ee5555cc2f6a08aaba770519c2b4a0799023593",
+      "size": 27595
+    },
+    {
+      "path": "harness/CODE.sha256",
+      "sha256": "2797ce7c5a4c3b38b6506b9ac1ed56b0ba1d6279cf4e989e0d18f2801dbd961a",
+      "size": 20967
+    },
+    {
+      "path": "harness/SOURCES.sha256",
+      "sha256": "08afc8613cee748d351f79bfed79b0f2b4a86dacb490ae66144142ae804ad41e",
+      "size": 20967
+    },
+    {
+      "path": "harness/harness-src.tar.gz",
+      "sha256": "537e32db6bc7994fd92cba8efb3f029ad4814d7d9df2469daa159159c5860ecf",
+      "size": 3190153
+    },
+    {
+      "path": "harness/harness-src.tar.gz.sha256",
+      "sha256": "d4b7e8106b4e1e0416019bd893680ba3feb8fba89a9ed9159aefbeebb0c3e578",
+      "size": 85
+    }
+  ]
+}
